@@ -78,4 +78,4 @@ python3 mainscan.py
 <img width="706" alt="1" src="https://github.com/user-attachments/assets/6184a90e-66d2-42b7-90ce-41732965ddd2" />
 
 
-### 该脚本主要借助豆包完成。
+### 四、该脚本主要借助豆包完成
