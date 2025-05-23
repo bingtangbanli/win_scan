@@ -71,7 +71,7 @@ python3 mainscan.py
 
 第二种
 
-使用pyinstaller将py文件打包为exe文件执行。
+使用pyinstaller将py文件打包为exe文件使用管理员执行。
 
 ### 三、结果演示
 
