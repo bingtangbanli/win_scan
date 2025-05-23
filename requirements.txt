@@ -1,0 +1,5 @@
+psutil==5.9.5  # 系统信息获取工具
+pywin32==306   # Windows API接口（提供win32com、win32evtlog等模块）
+wmi==1.5.1     # Windows WMI接口（用于系统管理信息查询）
+
+#pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
